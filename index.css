@@ -1,0 +1,16 @@
+h1
+{
+    text-align: center;
+    font-size: 100px;
+    background-image: url("1296251.jpg");
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color:transparent;
+}
+
+body
+{
+    background-color:black;
+}
